@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61489288-8861-4890-9ba9-bfb4c17363a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/views/carcassonne.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/carcassonne.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/comite.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/comite.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/commentnousrejoindre.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/commentnousrejoindre.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/hotel.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/hotel.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/nime.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/nime.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/parc.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/parc.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/register.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/register.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/reservation.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/reservation.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/sete.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/sete.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/toulouse.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/toulouse.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascripts/payment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/paiement.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/paiement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/paiement.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/paiement.ejs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,62 +16,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/commentnousrejoindre.ejs">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="63" selection-start-line="63" selection-end-line="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/carcassonne.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/comite.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/commentnousrejoindre.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/carcassonne.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/paiement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/login.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/hotel.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/login.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/nime.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -97,49 +100,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/register.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/reservation.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/sete.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/toulouse.ejs">
+        <entry file="file://$PROJECT_DIR$/views/paiement.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="303">
+              <caret line="292" column="56" selection-start-line="292" selection-start-column="34" selection-end-line="292" selection-end-column="56" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#4212#4218#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,8 +117,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -165,6 +132,8 @@
       <find>../Canvas4.5/HTML/js/</find>
       <find>.html</find>
       <find>index2</find>
+      <find>Check</find>
+      <find>check</find>
     </findStrings>
     <replaceStrings>
       <replace>stylesheets/css/</replace>
@@ -180,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/views/index2.ejs" />
         <option value="$PROJECT_DIR$/views/inscription.ejs" />
         <option value="$PROJECT_DIR$/views/inscription.html" />
@@ -213,7 +181,6 @@
         <option value="$PROJECT_DIR$/views/sete.html" />
         <option value="$PROJECT_DIR$/views/nime.html" />
         <option value="$PROJECT_DIR$/views/tools/navbar.ejs.html" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/tools/navbar.ejs" />
         <option value="$PROJECT_DIR$/views/carcassonne.ejs" />
         <option value="$PROJECT_DIR$/views/comite.ejs" />
@@ -227,6 +194,11 @@
         <option value="$PROJECT_DIR$/views/reservation.ejs" />
         <option value="$PROJECT_DIR$/views/sete.ejs" />
         <option value="$PROJECT_DIR$/views/toulouse.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/javascripts/payment.js" />
+        <option value="$PROJECT_DIR$/routes/paiement.js" />
+        <option value="$PROJECT_DIR$/views/paiement.ejs" />
       </list>
     </option>
   </component>
@@ -234,8 +206,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="13" />
-    <option name="y" value="39" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -347,18 +318,18 @@
       <workItem from="1545126974178" duration="5983000" />
       <workItem from="1545147925535" duration="448000" />
       <workItem from="1545149111728" duration="282000" />
-      <workItem from="1545209932584" duration="4448000" />
+      <workItem from="1545209932584" duration="10150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11161000" />
+    <option name="totallyTimeSpent" value="16863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26385927" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2889126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -386,11 +357,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/error.ejs" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index2.ejs" />
     <entry file="file://$PROJECT_DIR$/views/inscription.ejs" />
     <entry file="file://$PROJECT_DIR$/public/stylesheets/animate.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -410,21 +376,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/nime.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/parc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/reservation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
@@ -433,27 +385,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/register.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/sete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/parc.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -473,13 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/hotel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/carcassonne.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1819">
@@ -496,13 +420,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commentnousrejoindre/nime.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/commentnousrejoindre.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/comite.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,13 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/toulouse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -606,13 +516,6 @@
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -627,36 +530,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/comite.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/carcassonne.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/tools/navbar.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/carcassonne.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-end-line="38" />
-          <folding>
-            <element signature="e#1345#1408#0#HTML" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -722,17 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/parc.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/register.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -765,10 +631,132 @@
     <entry file="file://$PROJECT_DIR$/views/toulouse.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/nime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/payment.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/sete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/reservation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/commentnousrejoindre.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/carcassonne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/comite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/carcassonne.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="63" selection-start-line="63" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/parc.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/paiement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/paiement.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="292" column="56" selection-start-line="292" selection-start-column="34" selection-end-line="292" selection-end-column="56" />
+          <folding>
+            <element signature="e#4212#4218#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
