@@ -15,6 +15,7 @@ var routes = [
   {path: '/parc', dir: 'parc'},
   {path: '/reservation', dir: 'reservation'},
   {path: '/sete', dir: 'sete'},
+  {path: '/carcassonne', dir: 'carcassonne'},
   {path: '/toulouse', dir: 'toulouse'},
   {path: '/login', dir: 'login'},
   {path: '/comite', dir: 'comite'},
