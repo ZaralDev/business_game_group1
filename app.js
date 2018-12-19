@@ -17,6 +17,8 @@ var routes = [
   {path: '/sete', dir: 'sete'},
   {path: '/toulouse', dir: 'toulouse'},
   {path: '/login', dir: 'login'},
+  {path: '/comite', dir: 'comite'},
+  {path: '/commentnousrejoindre', dir: 'commentnousrejoindre'},
 ];
 
 
