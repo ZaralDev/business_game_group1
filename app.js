@@ -20,8 +20,9 @@ var routes = [
   {path: '/login', dir: 'login'},
   {path: '/comite', dir: 'comite'},
   {path: '/commentnousrejoindre', dir: 'commentnousrejoindre'},
-    {path: '/carte', dir: 'carte'},
-    {path: '/paiement', dir: 'paiement'},
+  {path: '/carte', dir: 'carte'},
+  {path: '/paiement', dir: 'paiement'},
+  {path: '/nature', dir: 'nature'},
 
 ];
 
