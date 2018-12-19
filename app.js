@@ -21,6 +21,8 @@ var routes = [
   {path: '/comite', dir: 'comite'},
   {path: '/commentnousrejoindre', dir: 'commentnousrejoindre'},
     {path: '/carte', dir: 'carte'},
+    {path: '/paiement', dir: 'paiement'},
+
 ];
 
 
